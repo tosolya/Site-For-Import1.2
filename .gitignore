@@ -1,0 +1,8 @@
+# Игнорируем все файлы в подкаталоге tmp и все файлы оканчивающиеся на _old, _backup
+tmp/
+*old
+*backup
+
+# Игнорируем Thumbs.db, .DS_Store
+Thumbs.db
+*.DS_Store
